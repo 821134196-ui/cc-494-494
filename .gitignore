@@ -13,3 +13,7 @@ build/
 轨迹/
 录屏/
 视频/
+
+# 运行期数据（SQLite 与本地 PDF，运行 run.sh 自动重建）
+data/
+*.sessionkey
